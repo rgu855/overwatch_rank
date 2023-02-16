@@ -1,2 +1,2 @@
 # overwatch_rank
-overwatch rank predictor based on hero statistics (so far Ana).
+Overwatch hero data visualization based on rank. Overwatch rank predictor based on hero statistics (so far Ana).
